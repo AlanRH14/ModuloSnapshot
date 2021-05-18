@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287059019260",
+    "project_id": "snapshots-e279d",
+    "storage_bucket": "snapshots-e279d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287059019260:android:93db003462b589d27a5e79",
+        "android_client_info": {
+          "package_name": "curso.kotlin.modulosnapshots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287059019260-e7kaa3si3qq2lhfosjm5rusqeg64o38o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQCxLP_5L6N22gy97XhHqXyE_P4pdV7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287059019260-e7kaa3si3qq2lhfosjm5rusqeg64o38o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
